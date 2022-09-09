@@ -1,4 +1,4 @@
-<?php
+<?php 
 session_start();
 session_destroy();
 $id_pagina = 'home';
